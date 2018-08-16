@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-response-reset',
+  selector: 'response-reset',
   templateUrl: './response-reset.component.html',
   styleUrls: ['./response-reset.component.css']
 })
